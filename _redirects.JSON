@@ -1,0 +1,3 @@
+– from: /old-page
+to: /new-page
+statusCode: 301
